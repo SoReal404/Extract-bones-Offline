@@ -1,6 +1,6 @@
 # Multi-Person Pose Screenshot & Landmark Saver
 
-This project uses **MediaPipe BlazePose** (modern Tasks API) to detect **multiple humans** on the screen, save their pose landmarks, and take screenshots **on key press**.
+This project uses **MediaPipe BlazePose** (modern Tasks API by "pose_landmarker_full.task") to detect **multiple humans** on the screen, save their pose landmarks, and take screenshots **on key press**.
 
 ---
 
